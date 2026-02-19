@@ -1,0 +1,8 @@
+requests
+psutil
+PyJWT
+protobuf
+cfonts
+rich
+pycryptodome
+protobuf-decoder
